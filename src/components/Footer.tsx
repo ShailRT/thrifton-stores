@@ -9,8 +9,6 @@ const Footer = () => {
           <Image
             src="/crop.svg"
             alt="Thrifton Stores"
-            width={50}
-            height={30}
             className="w-35 h-12 md:w-40 md:h-10"
           />
         </Link>
