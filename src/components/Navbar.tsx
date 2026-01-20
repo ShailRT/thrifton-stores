@@ -12,6 +12,8 @@ const Navbar = () => {
         <Image
           src="/crop.svg"
           alt="Thrifton Stores"
+          width={100}
+          height={100}
           className="w-28 h-9 md:w-40 md:h-10"
         />
         {/* <p className="hidden md:block text-md font-medium tracking-wider">
